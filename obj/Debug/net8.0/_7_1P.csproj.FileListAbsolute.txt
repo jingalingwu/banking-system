@@ -1,0 +1,14 @@
+/Users/jingwu/Documents/Code/7.1P/bin/Debug/net8.0/_7_1P
+/Users/jingwu/Documents/Code/7.1P/bin/Debug/net8.0/_7_1P.deps.json
+/Users/jingwu/Documents/Code/7.1P/bin/Debug/net8.0/_7_1P.runtimeconfig.json
+/Users/jingwu/Documents/Code/7.1P/bin/Debug/net8.0/_7_1P.dll
+/Users/jingwu/Documents/Code/7.1P/bin/Debug/net8.0/_7_1P.pdb
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/_7_1P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/_7_1P.AssemblyInfoInputs.cache
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/_7_1P.AssemblyInfo.cs
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/_7_1P.csproj.CoreCompileInputs.cache
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/_7_1P.dll
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/refint/_7_1P.dll
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/_7_1P.pdb
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/_7_1P.genruntimeconfig.cache
+/Users/jingwu/Documents/Code/7.1P/obj/Debug/net8.0/ref/_7_1P.dll
